@@ -1,0 +1,15 @@
+X: 42
+T:Part of Town
+% Nottingham Music Database
+P:AABA
+S:Aneyan McCollentives, via Phil Rowe
+M:6/8
+K:A
+E|"A"A2E AcB|"A"ABA "E7"B2A|"A"Ace "D"f3|"A"e2e "E7"cde|"A"a3 "D"f2d|\
+"A"ecA "D"d2f|
+"G"g3 "A"c3|"A"c3 A2c|"E"B3 "A"GFE|"Bm"ABc "E7"BdB|
+"A"c3 "D"d2A|"A"c2A "E7"B2e|"A"A3 A3::
+"A"EAc ec2|"A"cea a2e|"D"fga bgf|"E7"ece gfe|
+"A"a2e c2e|"D/f+"agf "E7/g+"ede|"A"a4 "A#"f2e/2g/2|\
+"D"a2f "E7"gab|"D"A2A d2f|
+"D"b2a "A"bgf|"Bm"d2e "E7"f2e|"A"A2c "E7"B2=c|"A"A3 -A2:|

@@ -1,0 +1,12 @@
+X: 11
+T:Oaloled Free 3
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+M:4/4
+L:1/4
+K:D
+P:A
+d/2e/2|"D"f3d/2e/2|"D"fA/2A/2 A/2B/2A/2G/2|"D"F"A7"E/2D/2 Ed|"D"AF Ad|"D"FA dc|"G"d3/2c/2 BA|
+"Em"GG B|"D"A2 "A7"AA|"D"de f2|"A7"e3/2f/2 ed/2c/2|"D"BA FA|
+"G"G3/2B/2 Bd|"G"Be d3/2e/2|"D"fe df|"D"a2 ag|"B7"f6|"Em"e2 -"A7"ce|
+"D"d2 "Bm"A3/2c/2|"A"cd"A7"e|"D"fd "A7/e"c/2d/2e|"D"d3:|

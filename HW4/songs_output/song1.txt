@@ -1,0 +1,18 @@
+X: 132
+T:Creed of the Get
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+A/2G/2|"D"F/2G/2A/2B/2 AA|"G"Bg "D"aA|"Em"B/2A/2G/2F/2 "a"Bd\
+|(3"A7"c/2d/2e/2f/2 g/2f/2e/2g/2|
+"D"fa/2f/2 d/2f/2a/2f/2|"G"g/2f/2e/2d/2 e2|"D"f/2e/2d/2e/2 fe|"Em"GE F3/2E/2|"D"DD ::
+A/2F/2|"Em"EA e/2f/2e/2g/2|"A7"ae "Bm"a2|\
+"Em"ee "A7"e3/2e/2|
+"D"ff/2g/2 ff/2g/2|"D/f+"fe/2f/2 e/2c/2A/2B/2|"G"BB "F#/a"e2|\
+"B7"f/2e/2d/2e/2 fe/2f/2|"E7"e/2d/2c/2B/2 "A7"Ac/2d/2|
+"A7"ea/2g/2 a/2g/2f/2e/2|"D"df "A7"^fg|"D"fa/2g/2 aa/2f/2|\
+"Em"gf/2e/2 "D"df|
+"A"ee e/2d/2e|"Bm"fB Bf/2d/2|"E7"e/2f/2e/2d/2 cB|"A"Ac/2c/2 B/2A/2A|
+"B7"(3B/2^cd ef|"A"e/2c/2e/2f/2 g/2f/2e/2c/2|"Bm"d3[2|
